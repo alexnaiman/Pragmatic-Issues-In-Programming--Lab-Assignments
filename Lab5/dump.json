@@ -1,0 +1,11 @@
+{
+  "array": [
+    2,
+    {
+      "oare": "merge",
+      "nested": {
+        "nestedArray": ["some value"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "item": 1,
+  "nestedObject": { "key": "value", "nestedx2": { "item": "oare" } },
+  "array": ["1", "2", { "item": "in array" }]
+}
